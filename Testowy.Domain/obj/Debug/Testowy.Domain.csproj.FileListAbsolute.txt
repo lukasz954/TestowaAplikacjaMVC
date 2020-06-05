@@ -1,0 +1,6 @@
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\Testowy.Domain\bin\Debug\Testowy.Domain.dll
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\Testowy.Domain\bin\Debug\Testowy.Domain.pdb
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\Testowy.Domain\obj\Debug\Testowy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\Testowy.Domain\obj\Debug\Testowy.Domain.dll
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\Testowy.Domain\obj\Debug\Testowy.Domain.pdb
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\Testowy.Domain\obj\Debug\Testowy.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\bin\Debug\DbService.dll.config
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\bin\Debug\DbService.dll
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\bin\Debug\DbService.pdb
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\bin\Debug\EntityFramework.dll
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\bin\Debug\Testowy.Domain.dll
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\bin\Debug\Testowy.Domain.pdb
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\bin\Debug\EntityFramework.xml
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\obj\Debug\DbService.csprojAssemblyReference.cache
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\obj\Debug\DbService.csproj.CoreCompileInputs.cache
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\obj\Debug\DbService.csproj.CopyComplete
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\obj\Debug\DbService.dll
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\DbService\obj\Debug\DbService.pdb

@@ -1,0 +1,6 @@
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\Tools\bin\Debug\Tools.dll
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\Tools\bin\Debug\Tools.pdb
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\Tools\obj\Debug\Tools.csprojAssemblyReference.cache
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\Tools\obj\Debug\Tools.dll
+C:\Users\lbartkowiak\Documents\Projekty\Testowy\Tools\obj\Debug\Tools.pdb
